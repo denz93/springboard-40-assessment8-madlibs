@@ -1,0 +1,40 @@
+form {
+  display: flex;
+  flex-direction: column;
+  gap: .5em;
+  align-items: center;
+}
+.form-control {
+  display: flex;
+  gap: 1em;
+}
+
+.form-control label {
+  width: 100px;
+}
+
+select {
+  max-width: 200px;
+}
+
+input, select {
+  padding: .5em .7em;
+  border: 1px solid currentColor;
+  background-color: transparent;
+  color: currentColor;
+}
+
+input:focus {
+  outline: 1px solid lightsalmon;
+}
+
+button {
+  padding: .5em .7em;
+  background-color: darkcyan;
+  color: currentColor;
+  outline: none;
+  border: none;
+}
+button:hover {
+  outline: 1px solid lavender;
+}
