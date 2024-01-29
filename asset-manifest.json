@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/springboard-40-assessment8-madlibs/static/css/main.5a740737.css",
+    "main.js": "/springboard-40-assessment8-madlibs/static/js/main.0fa09795.js",
+    "static/js/668.a3e0075f.chunk.js": "/springboard-40-assessment8-madlibs/static/js/668.a3e0075f.chunk.js",
+    "index.html": "/springboard-40-assessment8-madlibs/index.html",
+    "main.5a740737.css.map": "/springboard-40-assessment8-madlibs/static/css/main.5a740737.css.map",
+    "main.0fa09795.js.map": "/springboard-40-assessment8-madlibs/static/js/main.0fa09795.js.map",
+    "668.a3e0075f.chunk.js.map": "/springboard-40-assessment8-madlibs/static/js/668.a3e0075f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5a740737.css",
+    "static/js/main.0fa09795.js"
+  ]
+}
